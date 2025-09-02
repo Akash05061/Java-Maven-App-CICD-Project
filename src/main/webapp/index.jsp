@@ -45,7 +45,7 @@
   <h2>Akash | Cloud | AI | DevOps</h2>
 
   <p>
-    Hi, I’m Akash. I’m passionate about Cloud Computing, Artificial Intelligence, and DevOps. 
+    Hi, I am Akash. I am passionate about Cloud Computing, Artificial Intelligence, and DevOps. 
     I enjoy working on projects that bring together automation, scalability, and real-world problem solving. 
     Always learning, always building!
   </p>
